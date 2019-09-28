@@ -8,7 +8,7 @@ const Router = require('koa-router');
 const jwt = require('koa-jwt');
 const router = new Router();
 
-const { find, findById, create, update, delete: del, checkAnswerExist, checkAnswerer } = require('../controllers/comment');
+const { find, findById, create, update, delete: del, checkAnswerExist, checkAnswerer } = require('../controllers/answer');
 router.prefix('/questions/:questionId/answers')
 
 const { secret } = require('../config');

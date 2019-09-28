@@ -17,7 +17,7 @@ const { find, findById, create, update, delete: del,
     getDisLikingAnswers, dislikeAnswer, undislikeAnswer,
     getCollectingAnswers, collectAnswer, unCollectAnswer } = require('../controllers/user');
 const { checkTopicExist } = require('../controllers/topic');
-const { checkAnswerExist } = require('../controllers/comment');
+const { checkAnswerExist } = require('../controllers/answer');
 
 router.prefix('/users')
 
