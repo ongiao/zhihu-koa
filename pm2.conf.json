@@ -7,8 +7,8 @@
         "node_modules",
         "logs"
       ],
-      "error_file": "app/logs/err.log",
-      "out_file": "app/logs/out.log",
+      "error_file": "/root/developments/test/testLogs/err.log",
+      "out_file": "/root/developments/test/testLogs/out.log",
       "log_date_format": "YYYY-MM-DD HH:mm:ss"
     }
 }
