@@ -7,7 +7,6 @@
         "node_modules",
         "logs"
       ],
-      "instances": 2,
       "error_file": "app/logs/err.log",
       "out_file": "app/logs/out.log",
       "log_date_format": "YYYY-MM-DD HH:mm:ss"
