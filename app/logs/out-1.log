@@ -1,9 +1,0 @@
-2019-09-28 22:01:51: Server starting at port 3000
-2019-09-28 22:01:58: Server starting at port 3000
-2019-09-28 22:02:01: MongoDB started successful!!
-2019-09-28 22:03:37:   <-- GET /users/
-2019-09-28 22:03:37:   --> GET /users/ 200 558ms 893b
-2019-09-28 22:04:05: Server starting at port 3000
-2019-09-28 22:04:23: MongoDB started successful!!
-2019-09-28 22:05:19: Server starting at port 3000
-2019-09-28 22:05:24: MongoDB started successful!!
